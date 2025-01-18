@@ -5,7 +5,7 @@ These are some cheatsheets I made for myself during my undergrad career at NUS. 
 
 > <img src="assets/image-5.png" width="500" />
 >
-> *CS3219 cheatsheet - My magnum opus*
+> *CS3219 cheatsheet
 
 Most of them are trash, only some of them are good (CS4225, CS4226), and few are incredibly well-made (FIN2704, CS3219). But my advice is to use these cheatsheets as a reference, and make your own cheatsheet. 
 
